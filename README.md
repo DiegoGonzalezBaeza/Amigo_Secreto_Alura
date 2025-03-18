@@ -1,4 +1,4 @@
-# 🎉 Amigo Secreto
+# 🎉 Amigo Secreto Alura - Oracle
 
 Un pequeño proyecto web interactivo para organizar un sorteo de "Amigo Secreto" de manera sencilla y rápida.
 
@@ -29,16 +29,6 @@ Un pequeño proyecto web interactivo para organizar un sorteo de "Amigo Secreto"
 │── 📄 style.css   # Estilos del sitio
 │── 📄 app.js      # Lógica del sorteo
 │── 📁 assets/     # Imágenes y recursos
-```
-
-## 🛠 Instalación y ejecución
-
-No se requiere instalación. Solo descarga o clona el repositorio y abre `index.html` en tu navegador.
-
-```sh
-git clone https://github.com/tu-usuario/amigo-secreto.git
-cd amigo-secreto
-open index.html  # O abrir en el navegador manualmente
 ```
 
 ## 📜 Código Fuente
@@ -135,10 +125,6 @@ function sortearAmigo() {
     console.log(`Amigo sorteado: ${amigos[amigoSorteadoIndex]}`);
 }
 ```
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT.
 
 ## 📬 Contacto
 
